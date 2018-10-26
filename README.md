@@ -1,16 +1,20 @@
 # software-must-know 必备必知软件
 
-Android安卓
+## Android安卓
 
 ## Linux
 
-## Mac OS
+## macOS
 
-## iOS
+##  iOS
 
 ## Windows [ 4 ]
 
-[4]:https:\\www.baidu.com
+[4]:https:\\www.github.com\software-must-know\Windows.md
+
+
+
+
 
 
 
